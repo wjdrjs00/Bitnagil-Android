@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,kotlin,android,androidstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,kotlin,android,androidstudio
 
+### Claude code ###
+CLAUDE.md
+.claude/
+
 ### Android ###
 # Gradle files
 .gradle/
